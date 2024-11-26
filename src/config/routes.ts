@@ -2,7 +2,7 @@ export const AppRoutes = {
   '403': '/403',
   '404': '/404',
   wc: '/wc',
-  terms: '/terms',
+  terms: 'https://dubiw3zgo51jg.cloudfront.net/tos.pdf',
   swap: '/swap',
   stake: '/stake',
   privacy: '/privacy',
