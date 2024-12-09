@@ -21,6 +21,7 @@ const SafeAppsLoadError = ({ onBackToApps }: SafeAppsLoadErrorProps): React.Reac
         <div>
           <Typography component="span">In case the problem persists, please report it through our</Typography>
           <ExternalLink href="https://safe-support.protofire.io/" fontSize="medium">
+            {' '}
             Form
           </ExternalLink>
         </div>
